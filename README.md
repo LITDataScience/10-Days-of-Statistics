@@ -22,3 +22,9 @@ sudo apt-get update
 sudo apt-get install python3.6
 sudo apt-get install python3-setuptools
 ```
+
+## Cloning this repo
+Clone this repository with the following command:
+```
+git clone https://github.com/LITDataScience/10-Days-of-Statistics.git
+```
