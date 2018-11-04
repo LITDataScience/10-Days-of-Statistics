@@ -29,7 +29,7 @@ class MMM:
 
 
 if __name__ == '__main__':
-    N = int(input())
+    Num = int(input())
     nums = sorted([int(num) for num in input().split()])
     freq = sorted([int(num) for num in input().split()])
-    print(MMM.interquatile_range(nums, freq, N))
+    print(MMM.interquatile_range(nums, freq, Num))
