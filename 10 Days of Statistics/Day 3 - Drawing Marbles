@@ -1,0 +1,5 @@
+Answer = 2/3
+
+Once we draw 1st Red marble, the bag is left with 2R and 4B marble.
+Hence prob of getting a blue marble  = (No.of blue/Total)
+i.e. 4/6 = 2/3

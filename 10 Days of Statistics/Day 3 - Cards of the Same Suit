@@ -1,0 +1,7 @@
+Answer = 12/51
+
+A deck has 52 cards, with 4 sets. Each set has 13 cards.
+We draw one card, whatever suit it is. No we are left with 51 cards.
+So, in order for second card to be of similar set, we need to pick from (13-1 = 12) cards.
+And total cards left in the deck are: (52-1=51)
+Hence, 12/51 is the probability.
