@@ -18,7 +18,8 @@ class LeastSqaureRL:
 if __name__ == '__main__':
     x = 80
     num = 0
-    X, Y = [list(map(float, input().split())) for _ in range(2)]
+    X = [95, 85, 80, 70, 60]
+    Y = [85, 95, 70, 65, 70]
     xMean = statistics.mean(X)
     yMean = statistics.mean(Y)
     y = LeastSqaureRL.linearRegressor(X, Y, num, xMean, yMean)[0] + LeastSqaureRL.linearRegressor(X, Y, num, xMean, yMean)[1] * x
